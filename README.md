@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# React + Typescript basic concepts
+
+This is my first project with react and typescript, where i aplied basic concepts for practice
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
