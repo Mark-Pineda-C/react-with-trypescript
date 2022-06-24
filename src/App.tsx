@@ -4,6 +4,7 @@ import { User } from './components/User';
 import { TimerParent } from './components/TimerParent';
 import { CounterRed } from './components/CounterRed';
 import { Form } from './components/Form';
+import { Todo } from './todo/Todo';
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
       <CounterRed />
       <h2 className='mt-4'>useCustomHooks</h2>
       <Form />
+      <hr />
+      <h2 className='mt-4'>useContex - createContext - contextProvider</h2>
+      <Todo />
     </>
   );
 }
